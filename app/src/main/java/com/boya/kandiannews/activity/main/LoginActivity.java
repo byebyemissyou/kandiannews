@@ -22,7 +22,7 @@ public class LoginActivity extends AppCompatActivity implements LoginInterface{
         tost("登录成功：用户个人信息为"+info);
     }
 
-
+//ssdasd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
