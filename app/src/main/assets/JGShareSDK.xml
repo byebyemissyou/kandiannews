@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+
+    <!-- 如果不需要支持某平台，可缺省该平台的配置-->
+
+    <SinaWeibo AppKey="26301476" AppSecret="6e72e1822b5f0495f3de242f9991a86e"
+        RedirectUrl="http://sns.whalecloud.com" />
+
+    <QQ AppId="1106688340" AppKey="VRpe9iBEQZIWIr9x" />
+
+    <Wechat AppId="wx8cf7200f594542cf" AppSecret="8be0db2f7784bcf573062b543da4e5e7" />
+
+
+</DevInfor>
